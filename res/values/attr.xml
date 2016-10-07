@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="iconTab" format="reference"></attr>
+    <attr name="colorTab" format="color"></attr>
+    <attr name="text" format="string"></attr>
+    <attr name="text_size" format="dimension"></attr>
+
+    <declare-styleable name="ChangeColorIconWithText">
+        <attr name="iconTab"></attr>
+        <attr name="colorTab"></attr>
+        <attr name="text"></attr>
+        <attr name="text_size"></attr>
+    </declare-styleable>
+
+</resources>
